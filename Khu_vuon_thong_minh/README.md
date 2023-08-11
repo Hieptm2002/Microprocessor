@@ -1,4 +1,4 @@
 ### Công cụ code
-  **Visual studio code**
+-  **Visual studio code**
 ### Trình biên dịch
-  **Platform IO**
+-  **Platform IO**
